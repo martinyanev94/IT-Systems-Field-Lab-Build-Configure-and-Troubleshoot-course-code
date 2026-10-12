@@ -1,0 +1,20 @@
+{
+  "responsibility_scenario": "IaaS provider supplies virtual infrastructure; learner manages guest and simulated router configuration.",
+  "client": {
+    "name": "CLIENT-01",
+    "interface": "eth0",
+    "address": "10.0.0.20/24",
+    "gateway": "10.0.0.1"
+  },
+  "router": {
+    "name": "ROUTER-01",
+    "lan_interface": "lan0",
+    "lan_address": "10.0.0.1/24",
+    "gateway": "10.0.0.1"
+  },
+  "server": {
+    "name": "SERVER-01",
+    "interface": "eth0",
+    "address": "10.0.0.10/24"
+  }
+}
