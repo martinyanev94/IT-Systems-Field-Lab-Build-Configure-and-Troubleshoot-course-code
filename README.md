@@ -1,0 +1,2 @@
+# IT-Systems-Field-Lab-Build-Configure-and-Troubleshoot-course-code
+Learn practical IT support troubleshooting through realistic hardware, networking, virtualization, printer, and mobile incidents. Build, configure, test, and verify working prototypes while using Python simulations and structured evidence to trace symptoms to causes. You’ll learn to: - Select compatible components and install them safely - Configur
